@@ -25,3 +25,11 @@ Power BI Desktop | Power Query | DAX | Data Modeling | Star Schema | Data Visual
 Project Workflow
 
 Raw Data → Data Cleaning → Data Transformation → Data Modeling → KPI Development → Interactive Dashboard
+
+Project Screenshot:
+
+https://github.com/syedkashanrazadataninja/Bank-Loan-Analysis-Interactive-Dashboard/blob/main/Bank_Loan_Overview.png
+
+https://github.com/syedkashanrazadataninja/Bank-Loan-Analysis-Interactive-Dashboard/blob/main/Bank_Loan_Summary.png
+
+https://github.com/syedkashanrazadataninja/Bank-Loan-Analysis-Interactive-Dashboard/blob/main/Bank_Loan_details.png
